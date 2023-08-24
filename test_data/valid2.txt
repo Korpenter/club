@@ -1,0 +1,18 @@
+3
+10:00 20:00
+100
+09:55 1 abba
+10:05 1 dima
+10:10 2 dima 1
+10:15 1 yadren
+10:20 2 yadren 1
+10:25 2 abba 2
+10:30 1 dave
+10:35 3 dave
+10:40 4 dima
+10:45 1 eve
+10:50 3 eve
+10:55 1 jora
+11:00 2 jora 3
+11:05 1 greg
+11:10 3 greg
